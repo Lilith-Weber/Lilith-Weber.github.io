@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Mind the Darwinian shortfalls - a graduate summer school on biodiversity and collection management in east Africa"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Field-course"
+permalink: /teaching/2021-Rwanda
+venue: "University of Rwanda, Kigali and Center for Excellence in Biodiversity and Natural Resource Management"
+date: "22-8-2021 to 3-9-2021"
+location: "Rwanda"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching an international, graduate level summer school Nyungwe Forest, Rwanda as invited senior 
+scientist and lecturer for lichens. 
