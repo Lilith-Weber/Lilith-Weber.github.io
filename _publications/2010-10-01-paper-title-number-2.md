@@ -8,4 +8,4 @@ paperurl: 'https://helda.helsinki.fi/bitstream/handle/10138/341675/Weber_22_Arth
 citation: 'Weber, L., Kantelinen, A. & Myllys, L. 2022. Arthonia ligniariella new to Finland. Graphis Scripta 34(1), p. 7–11. '
 ---
 
-[Download paper](http://academicpages.github.io/files/paper2.pdf](https://helda.helsinki.fi/bitstream/handle/10138/341675/Weber_22_Arthonia_ligniariella.pdf)
+[Download paper]([http://helda.helsinki.fi/bitstream/handle/10138/341675/Weber_22_Arthonia_ligniariella.pdf)Cancel changes
