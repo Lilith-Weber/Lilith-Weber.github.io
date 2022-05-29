@@ -11,24 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Biology, Mainz, 2017
-* M.Sc. in Evolution and Nature conservation, Frankfurt, 2019
-
+* B.Sc. in Biology, Johannes Gutenberg-Universität Mainz, 2014-2018
+  * Thesis title: “Die Evolution der Myosotis alpestris – Gruppe“ (Evolution of the Mysotis alpestris-group); Supervisior Joachim W. Kadereit
+* M.Sc. in Evolution and Nature conservation, Goethe University Frankfurt am Main, 2018-2020
+  * Thesis title: “Flechtendiversität entlang eines Höhengradienten im Bayerischen Wald“ (Lichen Diversity along an elevational gradient in the "Bayerischer Wald" forest area); Supervision Georg Zizka
+   
 Work experience
 ======
-* Fall 2015: Research Assistant
-  * University
-  * Duties included: 
-  * Supervisor: 
+* May 2020 - March 2021: Research Assistant
+* Senckenberg Research Institute Frankfurt, Cryptogam Section
+* Duties included: Tissue sampling, extraction and amplification of fungal DNA, improvement of existing extraction protocols and primer testing, general  support and database maintenance for a citizen science project (“Lecanomics”), quality assessment of sequencing results and testing for phylogenetic placement and herbarium curatorial tasks
+
+* October 2018 - December 2018
+* SDG Nord, Koblenz, Departement for Nature Conservation
+* Duties included: Informing and facilitation communcation of stakeholders, Issuing environmental permits, data analysis and reporting
+
+* March 2016 - April 2016
+* Nature Park Nassau
+* Duties included: Administrative work and public relations, planning of conservation and compensation regimes, fieldwork and monitoring od different organism groups
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * German, English
+* Lab
+  * DNA extraction, PCR-amplification & purification 
+  * Thin-layer chromatography
+* Computer
+  * DNA sequence analyses and phylogenetic analyses through a variety of programs: e.g. Geneious, Sequencher, MEGA, MrBayes, PAUP, BEAST
+  * Statistical analyses using R, PcOrd 
+  * Geospatial analysis and GIS software (QGIS, ArcGIS)
+* Excellent skills in microscopic and chemical identification of lichens
 
 Publications
 ======
@@ -48,6 +61,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
