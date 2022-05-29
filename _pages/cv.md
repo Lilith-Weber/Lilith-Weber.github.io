@@ -19,16 +19,16 @@ Education
 Work experience
 ======
 * May 2020 - March 2021: Research Assistant
-* Senckenberg Research Institute Frankfurt, Cryptogam Section
-* Duties included: Tissue sampling, extraction and amplification of fungal DNA, improvement of existing extraction protocols and primer testing, general  support and database maintenance for a citizen science project (“Lecanomics”), quality assessment of sequencing results and testing for phylogenetic placement and herbarium curatorial tasks
+  * Senckenberg Research Institute Frankfurt, Cryptogam Section
+  * Duties included: Tissue sampling, extraction and amplification of fungal DNA, improvement of existing extraction protocols and primer testing, general  support and database maintenance for a citizen science project (“Lecanomics”), quality assessment of sequencing results and testing for phylogenetic placement and herbarium curatorial tasks
 
 * October 2018 - December 2018
-* SDG Nord, Koblenz, Departement for Nature Conservation
-* Duties included: Informing and facilitation communcation of stakeholders, Issuing environmental permits, data analysis and reporting
+  * SDG Nord, Koblenz, Departement for Nature Conservation
+  * Duties included: Informing and facilitation communcation of stakeholders, Issuing environmental permits, data analysis and reporting
 
 * March 2016 - April 2016
-* Nature Park Nassau
-* Duties included: Administrative work and public relations, planning of conservation and compensation regimes, fieldwork and monitoring od different organism groups
+  * Nature Park Nassau
+  * Duties included: Administrative work and public relations, planning of conservation and compensation regimes, fieldwork and monitoring od different organism groups
   
 Skills
 ======
