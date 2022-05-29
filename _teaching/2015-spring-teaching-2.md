@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Supervision of an advanced botany and mycology course"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "undergrad course"
+permalink: /teaching/2021-Goethe
+venue: "Goethe University, Dept. Botanical and Molecular Evolution"
+date: 18-10-2019 to 6-12-2019 and 18-11-2020 to 13-1-2021"
+location: "frankfurt am Main, Germany"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
