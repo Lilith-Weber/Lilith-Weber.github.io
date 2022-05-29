@@ -14,6 +14,6 @@ I have a broad interest in many questions concerning fungal-algal symbioses and 
 
  
 
-title: "Education"
+"Education"
 * Master of Science (2018-2020), Goethe University Frankfurt am Main, Germany
 * Bachelor of Science (2014-2018), Johannes Gutenberg-Universität Mainz, Germany
