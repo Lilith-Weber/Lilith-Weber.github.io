@@ -4,6 +4,6 @@ collection: teaching
 type: "undergrad course"
 permalink: /teaching/2018-Mainz
 venue: "Johannes Gutenberg-University, Dept. Plant Evolution and Phylogeny"
-date: "23-10-2018"
+date: "2018-10-23"
 location: "Mainz, Germany"
 ---
