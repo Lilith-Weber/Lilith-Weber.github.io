@@ -4,7 +4,7 @@ collection: teaching
 type: "Field-course"
 permalink: /teaching/2021-Rwanda
 venue: "University of Rwanda, Kigali and Center for Excellence in Biodiversity and Natural Resource Management"
-date: "22-8-2021"
+date: "2021-8-22"
 location: "Rwanda"
 ---
 Teaching an international, graduate level summer school Nyungwe Forest, Rwanda as invited senior 
