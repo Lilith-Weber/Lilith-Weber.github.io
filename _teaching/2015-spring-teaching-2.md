@@ -4,6 +4,6 @@ collection: teaching
 type: "undergrad course"
 permalink: /teaching/2021-Goethe
 venue: "Goethe University, Dept. Botanical and Molecular Evolution"
-date: "18-11-2020"
+date: "2020-11-18"
 location: "Frankfurt am Main, Germany"
 ---
