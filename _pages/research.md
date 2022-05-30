@@ -1,6 +1,6 @@
 ---
-permalink: /software/
-title: "Software"
+permalink: /research/
+title: "Research"
 ---
 title: "Research"
 
