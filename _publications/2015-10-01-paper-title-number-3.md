@@ -8,4 +8,4 @@ paperurl: 'https://blam-bl.de/images/Herzogiella/Herzogiella_2021/Kray_Weber_Her
 citation: 'Kray, R. & Weber, L. 2021. Bericht zur Jahresexkursion der BLAM im Saastal (Schweiz) vom 9. bis 13. August 2020.'
 ---
 
-[Download paper here](https://blam-bl.de/images/Herzogiella/Herzogiella_2021/Kray_Weber_Herzogiella_8.pdf)
+[Download paper](https://blam-bl.de/images/Herzogiella/Herzogiella_2021/Kray_Weber_Herzogiella_8.pdf)
