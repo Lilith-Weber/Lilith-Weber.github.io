@@ -14,7 +14,7 @@ Education
 * B.Sc. in Biology, Johannes Gutenberg-Universität Mainz, 2014-2018
   * Thesis title: “Die Evolution der Myosotis alpestris – Gruppe“ (Evolution of the Mysotis alpestris-group); Supervisior Joachim W. Kadereit
 * M.Sc. in Evolution and Nature conservation, Goethe University Frankfurt am Main, 2018-2020
-  * Thesis title: “Flechtendiversität entlang eines Höhengradienten im Bayerischen Wald“ (Lichen Diversity along an elevational gradient in the "Bayerischer Wald" forest area); Supervision Georg Zizka
+  * Thesis title: “Flechtendiversität entlang eines Höhengradienten im Bayerischen Wald“ (Lichen Diversity along an elevational gradient in the "Bayerischer Wald" forest area); Supervisior Georg Zizka
    
 Work experience
 ======
