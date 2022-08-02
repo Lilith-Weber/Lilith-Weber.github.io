@@ -24,7 +24,7 @@ Work experience
 
 * October 2018 - December 2018: Internship
   * SDG Nord, Koblenz, Departement for Nature Conservation
-  * Duties included: Informing and facilitation communcation of stakeholders, Issuing environmental permits, data analysis and reporting
+  * Duties included: Informing and facilitation communcation of stakeholders, issuing environmental permits, data analysis and reporting
 
 * March 2016 - April 2016: Internship
   * Nature Park Nassau
