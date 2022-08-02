@@ -28,7 +28,7 @@ Work experience
 
 * March 2016 - April 2016: Internship
   * Nature Park Nassau
-  * Duties included: Administrative work and public relations, planning of conservation and compensation regimes, fieldwork and monitoring od different organism groups
+  * Duties included: Administrative work and public relations, planning of conservation and compensation regimes, fieldwork and monitoring of different organism groups
   
 Skills
 ======
